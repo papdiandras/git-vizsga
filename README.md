@@ -12,10 +12,14 @@ $ git branch console ->  console ág hozzáadása
 $ git checkout console -> console ágra váltás
 $ git add. -> hozzáadás parancs,app.js változtatásához kell
 $ git commit -m 'rögzítsük a változtatást'
-$ git add. -> hozzáadás parancs, style. css változtatásához kell
+$ git add. -> hozzáadás parancs, style.css változtatásához kell
 $ git commit -m 'rögzítsük a változtatást style.css-ben'
-$ git add . -> hozzáadás parancs, fájlok rögzítése
+$ git add . -> hozzáadás parancs, fájl rögzítése
 $ git commit -m 'README.md fájl rögzítése kész'
+$ git add . -> hozzáadás parancs, fájl rögzítése
+$ git checkout master - master ágra váltás
+$ git commit -m 'README.md fájl rögzítése kész'
+$ git checkout origin
 $ git remote add origin https://github.com/papdiandras/git-vizsga.git  -> távoli gyűjtemény megadása a console ág feltöltéséhez
 $ git push -u origin console -> a console ág távoli gyűjteménybe feltöltése
 $ git checkout master - master ágra váltás
