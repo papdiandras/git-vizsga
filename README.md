@@ -7,6 +7,10 @@ $ git commit -m '.gitignore fájl létrehozva'
 $ git add .
 $ git branch console
 $ git checkout console
+$ git add.
+$ git commit -m 'rögzítsük a változtatást'
+
+
 
 
 
