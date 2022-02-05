@@ -9,6 +9,8 @@ $ git branch console
 $ git checkout console
 $ git add.
 $ git commit -m 'rögzítsük a változtatást'
+$ git add.
+$ git commit -m 'rögzítsük a változtatást style.css-ben'
 
 
 
