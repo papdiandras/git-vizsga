@@ -19,9 +19,10 @@ $ git commit -m 'README.md fájl rögzítése kész'
 $ git add . -> hozzáadás parancs, fájl rögzítése
 $ git checkout master - master ágra váltás
 $ git commit -m 'README.md fájl rögzítése kész'
-$ git checkout console
-$ git remote add origin https://github.com/papdiandras/git-vizsga.git  -> távoli gyűjtemény megadása a console ág feltöltéséhez
-$ git push -u origin console -> a console ág távoli gyűjteménybe feltöltése
-$ git checkout master - master ágra váltás
 $ git remote add origin https://github.com/papdiandras/git-vizsga.git  -> távoli gyűjtemény megadása a master ág feltöltéséhez
 $ git push -u origin master -> a master ág távoli gyűjteménybe feltöltése
+$ git checkout console -> console ágra váltás
+$ git remote add origin https://github.com/papdiandras/git-vizsga.git  -> távoli gyűjtemény megadása a console ág feltöltéséhez
+$ git push -u origin console -> a console ág távoli gyűjteménybe feltöltése
+
+
