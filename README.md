@@ -24,4 +24,4 @@ $ git remote add origin https://github.com/papdiandras/git-vizsga.git  -> távol
 $ git push -u origin console -> a console ág távoli gyűjteménybe feltöltése
 $ git checkout master - master ágra váltás
 $ git remote add origin https://github.com/papdiandras/git-vizsga.git  -> távoli gyűjtemény megadása a master ág feltöltéséhez
-$ git push -u origin console -> a master ág távoli gyűjteménybe feltöltése
+$ git push -u origin master -> a master ág távoli gyűjteménybe feltöltése
